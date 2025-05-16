@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Pedro Costa
 
-- 🌱 Estou atualmente estudando JavaScript e React
+- 🌱 Estou atualmente estudando para me tornar um desenvolvedor fullstack! 
 - 📫 Como me encontrar: pedrocbsantanadev@gmail.com
-- ⚡ Fun fact: Gamer elo máximo em quase todos os jogos ja jogados 
+- ⚡ O que eu estou começando a dominar: HTML, CSS, React e Python!
 
